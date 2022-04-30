@@ -1,0 +1,8 @@
+@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+res:713527d4-9feb-4015-be1d-6d3dd68b0e89 a ont:Person ;
+    rdfs:label "gAAAAABibQbifRmY1ekOSrOCktlzcpyhVKl7k3wBanIrJsxH8irzSPtogsMI8VmUute5F8KbwcdlWmxxz2ndU9VxOgP5gIS6Lw=="@en ;
+    ont:hasBirthDate "gAAAAABibRy-GaPDOZP8R4pYyspq4xTmC-ffwSQyr7t6FtoyS58qt5gnqYFEBROpHQG5vIldgFau2sia18mF26CGwTa-W_rQQg=="^^xsd:date .

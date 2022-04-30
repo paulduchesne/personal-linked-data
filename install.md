@@ -2,7 +2,7 @@
     
 Acquire domain name.    
     
-> 713527d4-9feb-4015-be1d-6d3dd68b0e89.org    
+> https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org    
     
 Setup minimal ubuntu machine.    
     
