@@ -1,0 +1,211 @@
+[
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/36512d5b-19f2-473b-9cff-7ca823ac4248",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/OpenStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:6dfbacdc-b175-4cd4-8010-7dae5132707c a ont:BeingBorn .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/7c1e79bb-ab21-4e4a-bbf3-0f48334391de",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:5a956022-a918-4151-8a00-446e2cce7c2c a ont:GivingBirth .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/b0ac39d8-1247-405c-b5de-547430dfcd18",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/OpenStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:713527d4-9feb-4015-be1d-6d3dd68b0e89 rdfs:label \"Paul Joseph Heslin\" .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/0d0e99d8-6fa0-462f-8db7-97a58051cf5c",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:285600af-ac48-4256-a1a5-1e9f3ad3190a ont:hasAgent res:1f220116-86a8-4818-ae50-c1c39bbb06e9 .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/f5aafbb6-1221-4419-8744-81d2fd2ff9be",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:5a956022-a918-4151-8a00-446e2cce7c2c ont:hasAgent res:94efddce-3f2a-4838-a5fa-fcf4180e5584 .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/357d407f-d22c-49d7-b8af-98df5e75181b",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:1f220116-86a8-4818-ae50-c1c39bbb06e9 rdfs:label \"Dale Nelson Heslin\" .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/7e1843fa-cfb8-4cf7-8317-1060e0c22c71",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:285600af-ac48-4256-a1a5-1e9f3ad3190a a ont:Witness .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/70596b59-85e3-4fea-81b7-9c3772ebe773",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d ont:EventDate \"1986-04-14\" .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/d9b26cae-0fa7-4e02-b489-02ff8307fc56",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:94efddce-3f2a-4838-a5fa-fcf4180e5584 rdfs:label \"Patricia Marie Heslin\" .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/ba78a433-11a6-4246-b2f5-702333fd7076",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:713527d4-9feb-4015-be1d-6d3dd68b0e89 a ont:Person .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/858f454c-b0a9-4cfb-b280-73204f1fa2b8",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d ont:EventLocation res:8605ab63-d1d0-4324-8997-8c33de2c3673 .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/2aea7061-37ff-4581-8d99-327fa210b75d",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:8605ab63-d1d0-4324-8997-8c33de2c3673 rdfs:label \"Woden Valley Hospital\" .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/d8442700-daa1-4833-8e59-20347867b367",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/OpenStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:6dfbacdc-b175-4cd4-8010-7dae5132707c ont:hasAgent res:713527d4-9feb-4015-be1d-6d3dd68b0e89 .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/c8fac6cd-4a6c-41d2-979c-0d03117ea6c2",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:1f220116-86a8-4818-ae50-c1c39bbb06e9 a ont:Person .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/2aad7cc2-9c11-4c72-b34d-9c4d4aa1cb4a",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d ont:hasActivity res:5a956022-a918-4151-8a00-446e2cce7c2c .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/3fd2a112-b18a-44fa-956b-4cc9f970ece6",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/OpenStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d ont:hasActivity res:6dfbacdc-b175-4cd4-8010-7dae5132707c .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/ac9b1356-f85e-4068-9585-b927da719109",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d ont:hasActivity res:285600af-ac48-4256-a1a5-1e9f3ad3190a .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/08e0e3ee-5342-461c-8700-76e007235a38",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/ClosedStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:94efddce-3f2a-4838-a5fa-fcf4180e5584 a ont:Person .\n\n"
+        }
+      ]
+    },
+    {
+      "@id": "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/a0f86984-58a9-423c-9025-f653c9d762e1",
+      "@type": [
+        "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/OpenStatement"
+      ],
+      "https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/hasPayload": [
+        {
+          "@value": "@prefix ont: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/ontology/> .\n@prefix res: <https://713527d4-9feb-4015-be1d-6d3dd68b0e89.org/resource/> .\n\nres:d4b77081-311b-4a44-b388-6dfb826faa0d a ont:BirthEvent .\n\n"
+        }
+      ]
+    }
+  ]
