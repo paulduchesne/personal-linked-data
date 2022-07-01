@@ -1,0 +1,30 @@
+{
+    "id": "d4b77081-311b-4a44-b388-6dfb826faa0d",
+    "event_type": "BirthEvent",
+    "event_date": "1986-04-14",
+    "event_location": {
+        "id": "8605ab63-d1d0-4324-8997-8c33de2c3673",
+        "name": "Woden Valley Hospital"
+    },
+    "visible": "closed",
+    "agents": [
+        {
+            "id": "713527d4-9feb-4015-be1d-6d3dd68b0e89",
+            "name": "Paul Joseph Heslin",
+            "activity": "BeingBorn",
+            "visible": "open"
+        },
+        {
+            "id": "94efddce-3f2a-4838-a5fa-fcf4180e5584",
+            "name": "Patricia Marie Heslin",
+            "activity": "GivingBirth",
+            "visible": "closed"
+        },
+        {
+            "id": "1f220116-86a8-4818-ae50-c1c39bbb06e9",
+            "name": "Dale Nelson Heslin",
+            "activity": "Witness",
+            "visible": "closed"
+        }
+    ]
+}

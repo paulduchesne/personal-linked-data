@@ -1,4 +1,4 @@
-# Personal Linked Open Data
+# Personal Linked Data
 
 Semantic experiments with personal data. Inspired by Karl Ove Knausgård, Adelheid Heftberger, Shoshana Zuboff and my former housemates who were performing statistical analysis on their bowel movements. Note that there is substantial overlap with the [Solid](https://solidproject.org/) project and this may be abandoned in the future, in lieu of working with that protocol.
 
